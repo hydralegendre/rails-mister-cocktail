@@ -9,4 +9,10 @@
 # db/seeds.rb
 Ingredient.create(name: "lemon")
 Ingredient.create(name: "ice")
+Ingredient.create(name: "coca")
+Ingredient.create(name: "strawberry")
+Ingredient.create(name: "sparkling water")
+Ingredient.create(name: "Vodka")
+Ingredient.create(name: "Tequila")
+Ingredient.create(name: "Gin")
 Ingredient.create(name: "mint leaves")
